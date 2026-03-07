@@ -1,0 +1,4 @@
+{
+  "input_variables": ["name", "age", "gender", "dob", "religion", "country", "state", "language"],
+  "template": "Generate a VERY SHORT future partner prediction in {language}. Use only 6 bullet points. Each bullet must be 1 short sentence only. Total response under 80 words. For {name}, age {age}, gender {gender}, born on {dob}, religion {religion}, living in {state}, {country}. Include: partner name, personality, profession, marriage type, marriage age, and one special trait. Keep it simple and exciting."
+}
